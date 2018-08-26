@@ -5,8 +5,11 @@ this is a CRUD app example write with React, Node, Expres and Mongodb
 Carpetas
 
 app  ( todo el codigo de la aplciado generado en React)
+
 models ( todo lo que este referido a el acceso a la base)
+
 public ( aca se va poner todo el codigo generado y que sea publico para nuestros usuarios, ya estandarizado para que el navegador lo pueda interpretar)
+
 routes ( rutas, como vendria a ser el controlador)
 
 
