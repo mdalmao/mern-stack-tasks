@@ -26,7 +26,7 @@ NODEMON se usa para que cada vez que hagamos un cambio, automaticamente ya lo to
 En el package.json se pueden definir en la sección scrips distintos comandos útiles, como por ejemplo el start ( osea que hace al iniciar la aplicación), luego de definir el start, podemos simplemente ejecutar npm start, y la aplicación iniciará.
 Para otros comandos, como el dev, se debe utilizar npm run dev 
 
-npm install morgan ( es un moduelo para ver por consola las peticiones que están llegando al servidor)
+npm install morgan ( es un modulo para ver por consola las peticiones que están llegando al servidor)
 
 
 npm install mongose ( este modulo permite conectar a la base de datos y tambien permite definir como se van a ver los datos dentro de la base de datos)
