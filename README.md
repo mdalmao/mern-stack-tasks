@@ -4,7 +4,7 @@ this is a CRUD app example write with React, Node, Expres and Mongodb
 
 Carpetas
 
-app  ( todo el codigo de la aplciado generado en React)
+app  ( todo el codigo de la aplicacion generado en React)
 
 models ( todo lo que este referido a el acceso a la base)
 
@@ -13,11 +13,10 @@ public ( aca se va poner todo el codigo generado y que sea publico para nuestros
 routes ( rutas, como vendria a ser el controlador)
 
 
-1) npm init --yes ( esto inicializa el proyecto como node.js
-2) npm install express
+1) npm init --yes ( esto inicializa el proyecto como node.js )
+2) npm install express (http://expressjs.com/es/ )
 
-Para ejecutar la aplicación hacemos
-
+Para ejecutar la aplicación hacemos:
 node src/index.js
 
 npm install nodemon -D ( el -D es porque es una dependencia de desarrollo, pero no del código en si)
